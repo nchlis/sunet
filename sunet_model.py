@@ -182,7 +182,7 @@ for run in range(NRUNS):
     #e4 = MaxPooling2D((2, 2))(e4)
     
     ####################################
-    # encoder (expansive path)
+    # decoder (expansive path)
     ####################################
     
     #decoder block 3
